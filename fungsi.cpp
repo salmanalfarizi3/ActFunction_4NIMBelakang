@@ -13,3 +13,9 @@ void input(){
 int luasPersegi(){
     return p * l;
 }
+int luasPersegi(){
+    return p * l;
+}
+void output(){
+    cout << "Hasilnya : " << luasPersegi();
+}
