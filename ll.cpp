@@ -18,3 +18,8 @@ void output() {
     cout << "Luas belah ketupat adalah: " << hitungLuas(d1, d2) << endl;
 }
 
+int main() {
+    input();
+    output();
+    return 0;
+}
